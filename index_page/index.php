@@ -10,7 +10,7 @@
     WELCOME TO MY PORFOLIO
 
     <br>
-    <a href="#">FIRST PAGE</a>
+    <a  href="/portfolio/pages/thesis_git/main.php">APPLICANT TRACKER WITH DSS</a>
     <br>
     <a href="#">SECOND PAGE</a>
     <br>
