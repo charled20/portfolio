@@ -40,15 +40,15 @@
                             <div class="row align-items-center h-100">
                                 <div class="col-12 mx-auto">
                                     <div class="h-100 border-primary justify-content-center">
-                                        <div class="ml-4 mr-4 text-center link-color">
-                                            SECOND PAGE
-                                        </div>
+                                        <a id="button2" type="button" class="ml-4 mr-4 text-center link-color" href="pages/showroom/showroom_main.php">  
+                                        SHOWROOM
+                                        </a>
                                     </div>
                                 </div>
                             </div>
                         </div>                
+                    </div>
                 </div>
-            </div>
 
             <div class="mt-4 row d-flex justify-content-between">
                 <div class="custom-cards">
