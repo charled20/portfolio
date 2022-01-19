@@ -21,7 +21,7 @@
         
 
             <div class="row d-flex justify-content-between">
-                <div class="custom-cards">
+                <div class="custom-cards row">
                         <div class="container h-100">
                             <div class="row align-items-center h-100">
                                 <div class="col-12 mx-auto">
@@ -40,18 +40,21 @@
                             <div class="row align-items-center h-100">
                                 <div class="col-12 mx-auto">
                                     <div class="h-100 border-primary justify-content-center">
-                                        <a id="button2" type="button" class="ml-4 mr-4 text-center link-color" href="pages/showroom/showroom_main.php">  
-                                        SHOWROOM
-                                        </a>
+                                        <div class="ml-4 mr-4 text-center link-color">
+                                            <a id="button1" type="button" class="ml-4 mr-4 text-center link-color" href="pages/showroom/showroom_main.php">  
+                                            SHOWROOM
+                                            </a>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                         </div>                
-                    </div>
                 </div>
 
+            </div>    
+
             <div class="mt-4 row d-flex justify-content-between">
-                <div class="custom-cards">
+                <div class="custom-cards row">
                         <div class="container h-100">
                             <div class="row align-items-center h-100">
                                 <div class="col-12 mx-auto">
@@ -79,7 +82,6 @@
                         </div>                
                 </div>
             </div>
-        </div>
             
         
         <!-- <a class="link-color text-center align-items-center" href="/portfolio/pages/thesis_git/main.php">APPLICANT TRACKER WITH DSS</a> -->
