@@ -1,29 +1,43 @@
 body{
 	background-image: linear-gradient(
 		to right,
-		rgb(24, 218, 224, 1), 
-		rgba(24, 218, 224, 1),
-		rgba(24, 218, 224, 1)
+		rgb(21, 190, 196, 1), 
+		rgba(21, 190, 196, 1),
+		rgba(21, 190, 196, 1)
         );
 } 
 
+
 .font-text{
-  font-family: 'Nunito'; 
-  color: white;
+    font-family: 'Nunito'; 
+    color: white;
+  }
+  
+  
+
+.custom-cards{
+height: 150px;
+width: 350px;
+background-color: transparent;
+border: solid rgb(255, 255, 255) 3px;
 }
 
-.font-text .link-color{
-  color: white;
-  text-decoration: none;
-  letter-spacing: 1px;
-  font-weight: 500;
-  cursor: pointer;
+.custom-cards:hover{
+border: solid blue 3px;
+cursor: pointer;
 }
 
-.font-text .link-color:hover{
-    color: blue;
+.custom-cards .link-color{
+    color: white;
     text-decoration: none;
     letter-spacing: 1px;
     font-weight: 500;
     cursor: pointer;
   }
+
+.custom-cards .link-color:hover{
+    color: blue;
+  }
+
+
+  
