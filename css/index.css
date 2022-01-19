@@ -1,0 +1,29 @@
+body{
+	background-image: linear-gradient(
+		to right,
+		rgb(24, 218, 224, 1), 
+		rgba(24, 218, 224, 1),
+		rgba(24, 218, 224, 1)
+        );
+} 
+
+.font-text{
+  font-family: 'Nunito'; 
+  color: white;
+}
+
+.font-text .link-color{
+  color: white;
+  text-decoration: none;
+  letter-spacing: 1px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.font-text .link-color:hover{
+    color: blue;
+    text-decoration: none;
+    letter-spacing: 1px;
+    font-weight: 500;
+    cursor: pointer;
+  }
