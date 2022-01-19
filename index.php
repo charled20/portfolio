@@ -7,7 +7,7 @@
     <title>Index Page</title>
 </head>
 <body>
-    MY PORFOLIO
+    WELCOME TO MY PORFOLIO
 
     <br>
     <a  href="/portfolio/pages/thesis_git/main.php">APPLICANT TRACKER WITH DSS</a>
