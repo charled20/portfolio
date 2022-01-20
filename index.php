@@ -42,7 +42,7 @@
                                     <div class="h-100 border-primary justify-content-center">
                                         <div class="ml-4 mr-4 text-center link-color">
                                             <a id="button1" type="button" class="ml-4 mr-4 text-center link-color" href="pages/showroom/showroom_main.php">  
-                                            SHOWROOM
+                                            3D ASSETS
                                             </a>
                                         </div>
                                     </div>

@@ -1,0 +1,8 @@
+.title-text{
+    font-family: 'Nunito'; 
+}
+.sr_iframe_div{
+    height: 50vh;
+    width: 20vw !important;
+    position:relative !important;
+}
