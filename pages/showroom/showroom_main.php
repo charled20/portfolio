@@ -42,7 +42,20 @@
     <!-- #### SCRIPTS #### -->
     <script src="../../js/jquery-3.4.1.min.js"></script>
     <script src="../../js/bootstrap.js"></script>
-    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>    
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script> 
+    <script>
+        // $(document).ready(function(){
+        //     $(".sr_iframe_div").hover(function(){
+        //         //$(this).css("background-color", "yellow");
+        //             alert('going in');
+        //             $(this).css("cursor", "pointer");
+        //         }, 
+        //         function(){
+        //             alert('going out');
+        //         //$(this).css("background-color", "pink");
+        //     });
+        // });
+    </script>   
     <!-- #### SCRIPTS #### -->
 </body>
 </html>
